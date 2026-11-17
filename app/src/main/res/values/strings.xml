@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Auto Fishing Clicker</string>
+    <string name="accessibility_desc">Layanan klik otomatis dan deteksi warna untuk membantu memancing di dalam game.</string>
+</resources>
