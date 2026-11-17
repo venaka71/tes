@@ -29,13 +29,7 @@ class MainActivity : AppCompatActivity() {
         }
 
         val infoText = TextView(this).apply {
-            text = "Panduan Cepat Auto-Fishing:
-" +
-                   "1. Aktifkan Izin Overlay Pop-up.
-" +
-                   "2. Aktifkan Accessibility Service (Auto Fishing Clicker).
-" +
-                   "3. Tekan 'Mulai Pop-Up & Deteksi Layar' lalu buka game."
+            text = "Panduan Cepat Auto-Fishing:\n1. Aktifkan Izin Overlay Pop-up.\n2. Aktifkan Accessibility Service.\n3. Tekan 'Mulai Pop-Up & Deteksi' lalu buka game."
             textSize = 16f
             setPadding(0, 0, 0, 32)
         }
